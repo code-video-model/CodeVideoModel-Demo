@@ -33,3 +33,10 @@ Opening the bare project URL shows the overview with every section collapsed,
 without adding a query or fragment. Explicit category, case and saved-view
 links retain their requested state.
 Gaming contains eight selected cases, numbered consecutively.
+
+Case directories, media resources and posters use the Gallery names, such as
+`Robotics_Trajectory_Control_02_A` and `Robotics_Trajectory_Control_02_B`.
+Selected revisions use the same naming convention within their revision
+directories. Legacy case identifiers remain internal lookup keys so existing
+case links and the original executable scene selectors keep working; they
+are not used as case directory or media filenames.

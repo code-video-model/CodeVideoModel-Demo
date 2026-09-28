@@ -1,0 +1,1 @@
+CVM.start("static/interactive/revisions/143a3af92bb9dfb4b4dec3f10bfe7e7b9ad960b3fcc6be40b7f01bdb386ffc26/Scene_World_Editing_03_A/runtime/case/index.html");
